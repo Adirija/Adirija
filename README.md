@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adirija
+- 👋 Hi, I’m @Adrija
 - 👀 I’m interested in coding, app devoloping , web devoloping
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
